@@ -1,2 +1,2 @@
 # Prolog_work
-Academic studies of logic programming.
+You can run the code using swi-prolog (https://www.swi-prolog.org/Download.html).
